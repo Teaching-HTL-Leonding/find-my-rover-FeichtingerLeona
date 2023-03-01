@@ -1,0 +1,5 @@
+C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\htl_2022-23\Programmieren\übungen\039-FindYourRover\obj\Debug\net7.0\039-FindYourRover.csproj.AssemblyReference.cache
+C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\htl_2022-23\Programmieren\übungen\039-FindYourRover\obj\Debug\net7.0\039-FindYourRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\htl_2022-23\Programmieren\übungen\039-FindYourRover\obj\Debug\net7.0\039-FindYourRover.AssemblyInfoInputs.cache
+C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\htl_2022-23\Programmieren\übungen\039-FindYourRover\obj\Debug\net7.0\039-FindYourRover.AssemblyInfo.cs
+C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\htl_2022-23\Programmieren\übungen\039-FindYourRover\obj\Debug\net7.0\039-FindYourRover.csproj.CoreCompileInputs.cache
